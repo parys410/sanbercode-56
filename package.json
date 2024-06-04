@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "node newman-script/gopal-api.js"
+  },
+  "devDependencies": {
+    "newman": "^6.0.0",
+    "newman-reporter-htmlextra": "^1.22.11"
+  }
+}
